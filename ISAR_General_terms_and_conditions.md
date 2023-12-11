@@ -27,15 +27,15 @@ The goal of this process is that the value of the archive is maintained in each 
 Once the data curation activities for a new version of the archive are finished, the archive is published on the ZENODO[^1]
  platform and receives an unequivocal citable digital object identifier (DOI).
 
-## 3.Licensing
+## Licensing
 
 The ISAR archive is published under a CC Attribution Share-Alike License[^2], which has this easily recognizable logo:
 
-![](RackMultipart20231211-1-q7nbdq_html_5894477d7e74a6e0.png)
+![CC BY SA Logo](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
 
 This license requires the data user (the licensee) to cite or credit the data source (i.e. the ICBEN/ISAR archive and/or the people that work for it) in all works that are based on data in the archive, in the manner specified by ICBEN and laid down in the applicable Terms and Conditions, i.e. this document (see Section 5). Furthermore, data users may distribute derivative works (e.g. overview tables derived from data in the archive) only under a license identical to ("not more restrictive than") the CC BY SA license that governs ISAR. ISAR data can also be used commercially, as long as the commercial activity pursuits a basically scientific goal. This means, for example, that a private environmental consulting firm can use the data in the archive to produce a review on noise effects commissioned and paid by, e.g., a government agency.
 
-## 4.Terms and conditions for data providers
+## Terms and conditions for data providers
 
 The ISAR archive is an open research data repository, and the data providers are responsible to ensure that the content they make available for the archive is suitable for open dissemination and that it complies with applicable laws, including, but not limited to, privacy, data protection, and intellectual property rights. Such data have been collected by the data provider or its institution in accordance with the local data protection regulations and have been anonymized to an appropriate degree (see below). Data providers are expressly advised to only contribute study data for the archive that can be passed on to a third party (i.e. the scientific community) without violating any rights of another third party.
 
@@ -45,7 +45,7 @@ Unknown to ICBEN is the original nature of the consent regarding allowed uses of
 
 Whenever a data provider releases their study data into the archive, a contract is set up that must be signed by an ICBEN representative as well as by the data provider. In certain exceptional cases, a data provider may relinquishes their data into the archive without a mutually signed contract, but with agreement documented in another form (e.g. confirmation by e-mail). Data providers must explicitly agree that their delivered data will, as part of the archive, be published online and that the data will be made available under a CC BY SA license.
 
-## 5.Terms and conditions for data users
+## Terms and conditions for data users
 
 Data users are persons or institutions that access the data in the archive for scientific purposes, e.g. for carrying out pooled analyses across all or a selection of data in the archive in the context of systematic reviews, meta-analyses and similar undertakings. Data users may also use data from one single study alone, a possibility data providers should be aware of. As the ISAR archive adopts an open data philosophy and is openly available to everyone, there are no specific restrictions ICBEN can impose on data users. This means that anyone can download the archive and analyze its data without consent from ICBEN. For that reason, no formal (mutually signed) contract is established between ICBEN and data users. However, ICBEN would highly appreciate if data users could adhere to the following principles:
 
@@ -59,7 +59,7 @@ Data users are persons or institutions that access the data in the archive for s
 
 By downloading all or parts of the ISAR archive from the online repository, these general terms and conditions take effect, which means that data users implicitly agree to abide by the terms and conditions in this document.
 
-## 6.Referencing the archive in published works and version numbering system
+## Referencing the archive in published works and version numbering system
 
 The ISAR archive is physically stored on the ZENODO platform and has a unique and persistent DOI, which is 11.5281/zenodo.3723336336. This is the _external_ identification of the archive per se, i.e. of all versions of the archive. Because the archive grows with the inclusion of new study data, or shrinks with the removal of (withdrawn) study data, each ISAR archive version also carries an internal version number which includes the year with the most recent entry (or removal) and a number which is incremented by 1 whenever a new entry was made into the archive or when a study (its data) was removed from it. The initial version of the archive has the internal number 2023.001, indicating the first version of the archive, released in the year 2023. Every new archive version will be tagged and pushed to ZENODO, in order to also generate a long-time stable (individual) version-DOI. In published works, data users should always refer to the exact version-DOI (i.e. the DOI of the version of the archive whose data they have worked with).
 
