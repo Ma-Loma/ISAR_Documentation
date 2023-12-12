@@ -62,5 +62,12 @@ It states
 > 
 > Pseudonymisation is also addressed to clarify some pitfalls and misconceptions: **pseudonymisation is not a method of anonymisation**. It merely reduces the linkability of a dataset with the original identity of a data subject, and is accordingly a useful security measure. 
 
-[^1]: Habermehl, Christina; Bobrov, Evgeny; Bernard, René (2023): Data Sharing in Clinical Research. Berlin Institute of Health@Charité. Berlin. Online verfügbar unter https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/data-sharing-in-clinical-research, zuletzt geprüft am 04.12.2023. 
+### Anonymisation tools
+The [ARX software](https://arx.deidentifier.org/) has been developped mainly at Charité Berlin and is desribed in this [paper](https://doi.org/10.1186/s12911-020-1041-3)[^2].
+According to the homepage
+> ARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data.
 
+
+
+[^1]: Habermehl, Christina; Bobrov, Evgeny; Bernard, René (2023): Data Sharing in Clinical Research. Berlin Institute of Health@Charité. Berlin. Online verfügbar unter https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/data-sharing-in-clinical-research, zuletzt geprüft am 04.12.2023. 
+[^2]: Eicher, J., Bild, R., Spengler, H. et al. A comprehensive tool for creating and evaluating privacy-preserving biomedical prediction models. BMC Med Inform Decis Mak 20, 29 (2020). [https://doi.org/10.1186/s12911-020-1041-3](https://doi.org/10.1186/s12911-020-1041-3)
