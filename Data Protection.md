@@ -18,7 +18,10 @@ If there is no legal basis (such as the informed consent) for the researcher to 
 
 Even if there is a legal basis for sharing personal data, it is important to minimize the data as much as possible. Data minimization is a principle in the General Data Protection Regulation (GDPR). The goal of data minimization is to protect the privacy of individuals by limiting the amount of personal data collected and processed.
 
-## important terms
+Even in case, that the informed consent allows for data sharing, it is **not allowed to publish pseudonymised data!** 
+
+
+## Important terms
 
 | Term | Description |
 | :--- | --- |
@@ -30,8 +33,34 @@ Even if there is a legal basis for sharing personal data, it is important to min
 |Anonymised data|Data that has undergone the process of anonymisation.|
 |Anonymous data |Data that can no longer be attributed to a specific individual.|
 
+## Anonymising data
 
+The [Opinion 05/2014 on Anonymisation Techniques](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf) was written by a "Working Party" set up under Article 29 of Directive 95/46/EC, which is an independent European advisory body on data protection and privacy.
+It states
 
+> The main anonymisation techniques, namely randomization and generalization, are described
+> in this opinion. In particular, the opinion discusses
+> 
+> - noise addition
+> - permutation
+> - differential privacy
+> - aggregation
+> - k-anonymity
+> - l-diversity
+> - t-closeness.
+> 
+> It explains their principles, their strengths and weaknesses, as well as the common mistakes and failures related to the use of each technique.
+> 
+> The opinion elaborates on the robustness of each technique based on three criteria:
+> 
+> 1. is it still possible to single out an individual,
+> 1. is it still possible to link records relating to an individual, and
+> 1. can information be inferred concerning an individual?
+> 
+> Knowing the main strengths and weaknesses of each technique helps to choose how to design
+> an adequate anonymisation process in a given context.
+> 
+> Pseudonymisation is also addressed to clarify some pitfalls and misconceptions: **pseudonymisation is not a method of anonymisation**. It merely reduces the linkability of a dataset with the original identity of a data subject, and is accordingly a useful security measure. 
 
 [^1]: Habermehl, Christina; Bobrov, Evgeny; Bernard, René (2023): Data Sharing in Clinical Research. Berlin Institute of Health@Charité. Berlin. Online verfügbar unter https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/data-sharing-in-clinical-research, zuletzt geprüft am 04.12.2023. 
 
