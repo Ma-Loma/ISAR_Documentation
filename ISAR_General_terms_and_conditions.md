@@ -1,3 +1,5 @@
+![ISAR Logo](/graphs/ISAR_Logo.png)
+
 # **ISAR General terms and conditions**
 
 **Version x from x, 2023**
